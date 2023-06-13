@@ -1,17 +1,6 @@
 body {
-  background-color: blue;
+  background-color: gray;
 }
-  #couple {
-                background-color; purple;
-                border: 5px solid black;
-                family-font
-                padding: 5px;
-                position: absolute;
-                z-index: 4}
-
-     .bigger { 
-                font-size: 60px;
-            }
      #Basketball-title {
             background-color: lightgray;
             font-size:50px;
@@ -22,7 +11,17 @@ body {
     #flying-angels{
                 text-align: center;
                 font-size:30px;
-
+    }
+               .image-small {
+                width: 278px;
+                margin: auto;
+                border: 6px solid rgb(153, 137, 47);
+                margin-right: 10px;
+                margin-bottom: 10px;
+            } 
+             #about-us {
+                background: rgb(100, 133, 176);
+                float: right;
+                width: 30%;
+                margin-left:10px;
             }
-                
-background-image: url("https://img.freepik.com/free-vector/realistic-falling-white-snow-overlay-transparent-background-snowflakes-storm-layer_90220-542.jpg?w=740&t=st=1683309093~exp=1683309693~hmac=247fcd3d9ad06e32c886b918ddcdb83e7d7c75a849d621b502c8004d448d0559");
