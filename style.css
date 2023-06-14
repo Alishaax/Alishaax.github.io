@@ -25,3 +25,10 @@ body {
                 width: 30%;
                 margin-left:10px;
             }
+#3imgs{
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
