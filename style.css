@@ -13,11 +13,7 @@ body {
                 font-size:30px;
     }
                .image-small {
-                width: 278px;
-                margin: auto;
-                border: 6px solid rgb(153, 137, 47);
-                margin-right: 10px;
-                margin-bottom: 10px;
+            
             } 
              #about-us {
                 background: rgb(100, 133, 176);
