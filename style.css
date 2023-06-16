@@ -24,7 +24,12 @@ body {
 #3imgs{
  display: block;
   margin: 0 auto;
-  width: 50%;
+}
+#image-small{
+width: 500px;
+}
+#gold-frame{
+boder: 4px solid gold;
 }
 #STEM-title {
             background-color: lightgray;
