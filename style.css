@@ -54,13 +54,13 @@ boder: 4px solid gold;
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: red;
+  background-color: white;
   color: black;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: red;
+  background-color: blue;
   color: white;
 }
 
