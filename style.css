@@ -1,45 +1,37 @@
-body {
+ h2 {
+        font-size:30px;
+    }
+    
+    body {
   background-color: grey;
   max-width: 1500px;
   margin: 0 auto;
  
-}
-
-
-p {
-  font-size:20px;
-
-}
-
-  #located {
-    border-style: dotted;
-  }
-
-       #intro {
+    
+    .photo {
+                width: 400px;
+                margin: 0 auto;
+                border: 6px solid rgb(0,0,0.8);
+                display: block;
+                margin-right: 10px;
+                margin-bottom: 10px;
+                margin-top: 50px;
+                margin-bottom: 50px;
+    }
+                
+                 #intro {
                 background: rgb(146, 149, 161);
+                float: right;
                 width: 100%;
                 margin-left:10px;
        }
-
-
-#main-title {
-            font-size: 100px;
-            text-align: center;
-            border:8px solid DodgerBlue;
-           
-            }
-
-.photo {
-                width: 450px;
-                margin: 0 auto;
-                border: 6px solid rgb(0,0,0.8);
-                display: block;                
-                margin-top: 50px;
-                margin-bottom: 50px;
+       
+                  #located {
+    border-style: dotted;
+  }
                 
-    }
-
- #location {
+                
+   #location {
                 background: rgb(100, 133, 176);
                 float: right;
                 width: 30%;
@@ -47,6 +39,8 @@ p {
                 margin-right:20px;
                 margin-top: 150px;
                 margin-bottom: 10px;
+   }
+      
                
 
 #Basketball-title {
@@ -57,11 +51,6 @@ p {
            
             }
 
-
-
-h2 {
-  font-size: 80px;
-}
 
     #flying-angels{
                 text-align: center;
