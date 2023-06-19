@@ -9,6 +9,12 @@ body {
        }
 
 
+#main-title {
+            font-size:50px;
+            text-align: center;
+           
+            }
+
 .photo {
                 width: 300px;
                 margin: 0 auto;
