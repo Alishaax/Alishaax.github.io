@@ -1,5 +1,6 @@
 body {
   background-color: grey;
+  max-width: 1500px;
 }
        #intro {
                 background: rgb(146, 149, 161);
@@ -19,10 +20,7 @@ body {
                 width: 300px;
                 margin: 0 auto;
                 border: 6px solid rgb(0,0,0.8);
-                display: block;
-                
-                //margin-right: 10px;
-                margin-bottom: 10px;
+                display: block;                
                 margin-top: 50px;
                 margin-bottom: 50px;
                 
