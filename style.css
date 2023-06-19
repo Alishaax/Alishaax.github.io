@@ -4,6 +4,10 @@ body {
   margin: 0 auto;
  
 }
+p {
+  font-size:20px;
+
+}
        #intro {
                 background: rgb(146, 149, 161);
                 width: 100%;
