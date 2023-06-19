@@ -9,6 +9,18 @@ body {
        }
 
 
+.photo {
+                width: 300px;
+                margin: 0 auto;
+                border: 6px solid rgb(0,0,0.8);
+                display: block;
+                
+                //margin-right: 10px;
+                margin-bottom: 10px;
+                margin-top: 50px;
+                margin-bottom: 50px;
+                
+    }
 
 #Basketball-title {
             background-color: lightgray;
@@ -41,12 +53,7 @@ h2 {
  display: block;
   margin: 0 auto;
 }
-.image-small{
-width: 500px;
-}
-.gold-frame{
-boder: 4px solid gold;
-}
+
 #STEM-title {
             background-color: black;
             font-size:50px;
